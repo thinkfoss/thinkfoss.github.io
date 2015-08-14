@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="068285f8-1429-425c-a292-325e26368be2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thinkfoss.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62020904">
-              <caret line="178" column="122" selection-start-line="178" selection-start-column="122" selection-end-line="178" selection-end-column="122" />
+            <state vertical-scroll-proportion="1.358885">
+              <caret line="193" column="20" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -205,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62020904">
-          <caret line="178" column="122" selection-start-line="178" selection-start-column="122" selection-end-line="178" selection-end-column="122" />
+        <state vertical-scroll-proportion="1.358885">
+          <caret line="193" column="20" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
           <folding />
         </state>
       </provider>
