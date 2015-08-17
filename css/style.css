@@ -178,6 +178,30 @@ ul.about-list li span{
 	margin-right: 10px;
 }
 
+#tf-task{
+	padding: 80px 0;
+}
+ul.task-list{ margin: 30px 0 0 ;}
+ul.task-list li{
+	display: block;
+	font-size: 16px;
+	line-height: 30px;
+	font-family: 'Open Sans', sans-serif;
+}
+ul.task-list li span{
+	margin-right: 10px;
+}
+
+ol.task-list{ margin: 30px 0 0 ;}
+ol.task-list li{
+	display: block;
+	font-size: 16px;
+	line-height: 30px;
+	font-family: 'Open Sans', sans-serif;
+}
+ol.task-list li span{
+	margin-right: 10px;
+}
 /* Team Section */
 #tf-team{
 	background: url(../img/03.jpg);
@@ -513,8 +537,17 @@ label {
 	box-shadow: transparent;
 }
 
-button.btn.tf-btn.btn-default {
+button.btn.tf-btn.btn-right {
 	float: right;
+	background: #FCAC45;
+	border: 0;
+	border-radius: 0;
+	padding: 10px 40px;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+button.btn.tf-btn.btn-center {
+	float: center;
 	background: #FCAC45;
 	border: 0;
 	border-radius: 0;
