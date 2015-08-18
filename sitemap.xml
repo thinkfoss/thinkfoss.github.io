@@ -7,6 +7,11 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.thinkfoss.com/</loc>
+  <loc>http://thinkfoss.com/</loc>
+  <lastmod>2015-08-17T18:41:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://thinkfoss.com/index.html</loc>
+  <lastmod>2015-08-17T18:41:40+00:00</lastmod>
 </url>
 </urlset>
